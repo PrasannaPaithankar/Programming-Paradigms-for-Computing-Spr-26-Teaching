@@ -1,0 +1,29 @@
+---
+title: "Computational Resource Offerings by IIT Kharagpur"
+---
+
+Diving straight to the point:
+
+### Departmental Level
+Each department has some resources, I will stick to CSE here.
+
+**[{{< bi box-arrow-up-right >}} The official CSE resource compilation link](https://cse.iitkgp.ac.in/?softwarefacilities.html)**
+
+You can use the Software Lab machines for personal academic work (during non-lab hours till around 2 AM).
+
+To get access to CPU and GPU clusters, fill out this form: [https://cse.iitkgp.ac.in/archives/Server_Access_Form.pdf](https://cse.iitkgp.ac.in/archives/Server_Access_Form.pdf) and submit it to the Software Lab Office, CSE Department.
+
+### Institute Level
+
+#### Computer and Informatics Centre (CIC)
+Website: [https://cic.iitkgp.ac.in/](https://cic.iitkgp.ac.in/)
+
+Want to fix your broken LAN socket? Contact CIC.<br>
+Want your institute fest/event/society/conference/laboratory to have a website? Contact CIC.<br>
+Want FREE Windows and MS Office licenses? Check the CIC website (PC should be on campus network).<br>
+
+
+#### ParamShakti Supercomputer
+IIT Kharagpur very proudly hosts the 1.3 Peta Flop ParamShakti supercomputer, one of the fastest in India. The information can be found at its dedicated page: [https://hpc.iitkgp.ac.in/](https://hpc.iitkgp.ac.in/).
+
+Your project supervisor will inform you if you need access to this. *(One of the coolest thing on campus according to me. Find and visit it sometime!)*

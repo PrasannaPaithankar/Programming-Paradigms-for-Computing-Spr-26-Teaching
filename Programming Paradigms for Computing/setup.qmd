@@ -1,0 +1,71 @@
+---
+title: "PC Setup"
+---
+
+I will lay down a non-opinionated guide to set up a programming environment on your personal computer which will be useful for this course and overall academic/non-academic programming tasks. Non-opinionated because you can and should experiment with various technologies to form your own personality.
+
+:::{.callout-important}
+The required reading is <mark>highlighted</mark>.
+:::
+
+### Operating System
+From the plethora of operating systems available, KGPians are mostly seen using (ranked by prevalence):
+
+- Windows (dowload through CIC [10.3.100.212](10.3.100.212) while connected to the campus network)
+- Ubuntu [https://ubuntu.com/desktop](https://ubuntu.com/desktop)
+- macOS
+- Fedora/Arch/Mint/Debian/Pop!_OS
+
+*Personal opinion: Windows is nice even for programming and doesn't deserve the dislike it gets*
+
+This setup would be curated for Debian based systems (Ubuntu, Mint, Pop!_OS etc.) and Windows. Other Linux distributions should be similar to Ubuntu except the package manager commands (like Ubuntu uses `apt`, while Fedora uses `dnf` etc.)
+
+<mark>Learn to use your package manager</mark>.
+
+### GitHub Account
+Create a GitHub account. That's it.
+
+### GitHub Student Developer Pack
+Get [https://education.github.com/pack](https://education.github.com/pack)
+
+### Git
+[https://git-scm.com/](https://git-scm.com/)
+
+<mark>Read [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2) thoroughly</mark>, its an essential tool and should be mastered in 1st year. These are building blocks which will be implicitly used in ALL your work. So give it a serious reading.
+
+### Code Editor/IDE
+Use [Visual Studio Code](https://code.visualstudio.com/). The first things should be to link with your student activated GitHub account and install the Copilot, C/C++ and Python extensions (which are not languages but helper tools).
+
+### Programming Languages
+These are the essential programming languages you should have installed and configured in your system. Follow the links to install and configure them properly in VS Code.
+
+- C/C++
+    - Windows: [**mingw**](https://code.visualstudio.com/docs/cpp/config-mingw)
+    - Ubuntu: [**gcc**](https://code.visualstudio.com/docs/cpp/config-linux)
+- Python: [**Setup uv**](https://docs.astral.sh/uv/getting-started/installation/) instead of direct Python and pip installation.
+- LaTeX: [**Setup LaTeX**](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) to write assignments/thesis/papers.
+
+Other languages may be installed as per your requirement.
+
+### Other Required Packages (Linux)
+Use your package manager to install the following essential packages:
+
+<mark>ssh</mark>, curl, wget, make, <mark>nano</mark>, gdb
+
+```bash
+sudo apt update
+sudo apt install curl wget make nano gdb openssh-client openssh-server openssl
+```
+
+### Terminal (Linux)
+I use Zsh with Oh My Zsh framework.<br>
+Theme: robbyrussell<br>
+Plugins: git, zsh-syntax-highlighting, zsh-autosuggestions<br>
+Installation guide: [https://ohmyz.sh](https://ohmyz.sh/)
+
+You can use any terminal like bash, fish, etc.
+
+### Terminal Tools (Linux)
+[tmux](https://github.com/tmux/tmux/wiki/Installing) - To handle multiple terminal sessions<br>
+[bat](https://github.com/sharkdp/bat) - A better cat command with syntax highlighting<br>
+[fd](https://github.com/sharkdp/fd) - A better find command<br>

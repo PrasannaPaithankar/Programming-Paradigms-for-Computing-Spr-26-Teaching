@@ -1,0 +1,10 @@
+---
+title: "Slides"
+fig-cap-location: bottom
+---
+
+::: {layout-ncol=2}
+![Week 1](){width=600 height=300}
+
+![Week 2](){width=600 height=300}
+:::

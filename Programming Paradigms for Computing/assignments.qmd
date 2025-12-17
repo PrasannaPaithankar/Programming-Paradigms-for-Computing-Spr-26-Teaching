@@ -1,0 +1,15 @@
+---
+title: "Assignments"
+---
+<style>
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+</style>
+
+### Required Readings
+#### [{{< bi motherboard >}} Computational Resource Offerings by IIT Kharagpur](./resources.qmd)
+#### [{{< bi tux >}} PC Setup Instructions](./setup.qmd)
+
+

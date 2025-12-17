@@ -1,0 +1,40 @@
+---
+title: "(CS11002) Programming Paradigms for Computing Spring '26"
+---
+
+### Faculty
+- Prof. Partha Pratim Chakrabarti ([ppchak@cse.iitkgp.ac.in](mailto:ppchak@cse.iitkgp.ac.in))
+- Prof. Sudeshna Sarkar ([sudeshna@cse.iitkgp.ac.in](mailto:sudeshna@cse.iitkgp.ac.in))
+
+### Teaching Assistants
+- Ayan Maity ([ayanmaity201@kgpian.iitkgp.ac.in](mailto:ayanmaity201@kgpian.iitkgp.ac.in))
+- Prasanna Paithankar ([paithankarprasanna@kgpian.iitkgp.ac.in](mailto:paithankarprasanna@kgpian.iitkgp.ac.in))
+- Niranjana Reddy B S ([niranjan20@kgpian.iitkgp.ac.in](mailto:niranjan20@kgpian.iitkgp.ac.in))
+- Deepraj Das ([deeprajdas@kgpian.iitkgp.ac.in](mailto:deeprajdas@kgpian.iitkgp.ac.in))
+- Raj Pajesh Parikh ([rajparikh@kgpian.iitkgp.ac.in](mailto:rajparikh@kgpian.iitkgp.ac.in))
+
+### Grading Policy
+- Assignments + Tutorials + Attendance: 15%
+- Class tests: 15%
+- Mid-semester: 25%
+- End-semester: 45%
+
+### Logistics
+- **Class timings**: Monday, Wednesday, Friday - 11:00 AM to 11:50 AM
+- **Venue**: NR 422, Nalanda Classroom Complex 
+
+### Syllabus
+
+| Module | Title/Topic Area | Key Contents |
+|--------|------------------|--------------|
+| **1** | Introduction | Basics of machine models and data models; data structures and algorithms; models of computation; computational modeling of real-world phenomena; simulations and learning |
+| **2** | Problem Solving & Algorithms | Algorithms: termination & correctness; algorithm-to-program process; problem specification; decomposition and refinement; structured programming; data & control abstractions |
+| **3** | Functional Paradigm | Function abstractions; designing functions as abstractions; higher-order functions; recursion and tree recursion |
+| **4** | Abstractions with Data | Data abstraction; sequences; mutable data structures |
+| **5** | Algorithmic Complexity | Time & space complexity; efficiency issues; searching & sorting algorithm examples |
+| **6** | Object-Oriented Paradigm | Classes & objects; object abstraction; inheritance; recursive objects (linked lists, trees); graph data model |
+| **7** | Data Representation & Visualization | Working with experimental and structured data |
+| **8** | Numerical Computation | Simulations, interpolation, optimization; solving systems of equations; accuracy, convergence, efficiency considerations |
+| **9** | Machine Learning Paradigm | Intro to ML; linear classification and regression |
+| **10** | Logic Programming Paradigm | Declarative logic programs; goal & constraint satisfaction; backtracking; unification |
+| **11** | Advanced Computing Paradigms | Parallel computing; quantum computing |

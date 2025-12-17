@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Programming Paradigms for Computing - IIT Kharagpur"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - slides.qmd
+      - ta_notes.qmd
+      - assignments.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: false
+    page-layout: full
+
+
+

@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Course Information",
+    "section": "",
+    "text": "Faculty\n\nProf. Partha Pratim Chakrabarti (ppchak@cse.iitkgp.ac.in)\nProf. Sudeshna Sarkar (sudeshna@cse.iitkgp.ac.in)\n\n\n\nTeaching Assistants\n\nAyan Maity ()\nPrasanna Paithankar (paithankarprasanna@kgpian.iitkgp.ac.in)\nNiranjana Reddy B S ()\nDeepraj Das ()\nRaj Pajesh Parikh ()\n\n\n\nGrading Policy\n\nAssignments + Tutorials + Attendance: 15%\nClass tests: 15%\nMid-semester: 25%\nEnd-semester: 45%\n\n\n\nLogistics\n\nClass timings: Monday, Wednesday, Friday - 11:00 AM to 11:50 AM\nVenue: NR 422, Nalanda Classroom Complex"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "(CS11002) Programming Paradigms for Computing Spring ’26",
+    "section": "",
+    "text": "Faculty\n\nProf. Partha Pratim Chakrabarti (ppchak@cse.iitkgp.ac.in)\nProf. Sudeshna Sarkar (sudeshna@cse.iitkgp.ac.in)\n\n\n\nTeaching Assistants\n\nAyan Maity ()\nPrasanna Paithankar (paithankarprasanna@kgpian.iitkgp.ac.in)\nNiranjana Reddy B S ()\nDeepraj Das ()\nRaj Pajesh Parikh ()\n\n\n\nGrading Policy\n\nAssignments + Tutorials + Attendance: 15%\nClass tests: 15%\nMid-semester: 25%\nEnd-semester: 45%\n\n\n\nLogistics\n\nClass timings: Monday, Wednesday, Friday - 11:00 AM to 11:50 AM\nVenue: NR 422, Nalanda Classroom Complex\n\n\n\nSyllabus\n\n\n\n\n\n\n\n\nModule\nTitle/Topic Area\nKey Contents\n\n\n\n\n1\nIntroduction\nBasics of machine models and data models; data structures and algorithms; models of computation; computational modeling of real-world phenomena; simulations and learning\n\n\n2\nProblem Solving & Algorithms\nAlgorithms: termination & correctness; algorithm-to-program process; problem specification; decomposition and refinement; structured programming; data & control abstractions\n\n\n3\nFunctional Paradigm\nFunction abstractions; designing functions as abstractions; higher-order functions; recursion and tree recursion\n\n\n4\nAbstractions with Data\nData abstraction; sequences; mutable data structures\n\n\n5\nAlgorithmic Complexity\nTime & space complexity; efficiency issues; searching & sorting algorithm examples\n\n\n6\nObject-Oriented Paradigm\nClasses & objects; object abstraction; inheritance; recursive objects (linked lists, trees); graph data model\n\n\n7\nData Representation & Visualization\nWorking with experimental and structured data\n\n\n8\nNumerical Computation\nSimulations, interpolation, optimization; solving systems of equations; accuracy, convergence, efficiency considerations\n\n\n9\nMachine Learning Paradigm\nIntro to ML; linear classification and regression\n\n\n10\nLogic Programming Paradigm\nDeclarative logic programs; goal & constraint satisfaction; backtracking; unification\n\n\n11\nAdvanced Computing Paradigms\nParallel computing; quantum computing"
+  },
+  {
+    "objectID": "index.html#course-information",
+    "href": "index.html#course-information",
+    "title": "Programming Paradigms for Computing",
+    "section": "",
+    "text": "Prof. Partha Pratim Chakrabarti (ppchak@cse.iitkgp.ac.in)\nProf. Sudeshna Sarkar (sudeshna@cse.iitkgp.ac.in)\n\n\n\n\n\nAyan Maity ()\nPrasanna Paithankar (paithankarprasanna@kgpian.iitkgp.ac.in)\nNiranjana Reddy B S ()\nDeepraj Das ()\nRaj Pajesh Parikh ()\n\n\n\n\n\nAssignments + Tutorials + Attendance: 15%\nClass tests: 15%\nMid-semester: 25%\nEnd-semester: 45%\n\n\n\n\n\nClass timings: Monday, Wednesday, Friday - 11:00 AM to 11:50 AM\nVenue: NR 422, Nalanda Classroom Complex"
+  },
+  {
+    "objectID": "setup.html",
+    "href": "setup.html",
+    "title": "PC Setup",
+    "section": "",
+    "text": "I will lay down a non-opinionated guide to set up a programming environment on your personal computer which will be useful for this course and overall academic/non-academic programming tasks. Non-opinionated because you can and should experiment with various technologies to form your own personality.\n\n\n\n\n\n\nImportant\n\n\n\nThe required reading is highlighted.\n\n\n\nOperating System\nFrom the plethora of operating systems available, KGPians are mostly seen using (ranked by prevalence):\n\nWindows (dowload through CIC 10.3.100.212 while connected to the campus network)\nUbuntu https://ubuntu.com/desktop\nmacOS\nFedora/Arch/Mint/Debian/Pop!_OS\n\nPersonal opinion: Windows is nice even for programming and doesn’t deserve the dislike it gets\nThis setup would be curated for Debian based systems (Ubuntu, Mint, Pop!_OS etc.) and Windows. Other Linux distributions should be similar to Ubuntu except the package manager commands (like Ubuntu uses apt, while Fedora uses dnf etc.)\nLearn to use your package manager.\n\n\nGitHub Account\nCreate a GitHub account. That’s it.\n\n\nGitHub Student Developer Pack\nGet https://education.github.com/pack\n\n\nGit\nhttps://git-scm.com/\nRead https://git-scm.com/book/en/v2 thoroughly, its an essential tool and should be mastered in 1st year. These are building blocks which will be implicitly used in ALL your work. So give it a serious reading.\n\n\nCode Editor/IDE\nUse Visual Studio Code. The first things should be to link with your student activated GitHub account and install the Copilot, C/C++ and Python extensions (which are not languages but helper tools).\n\n\nProgramming Languages\nThese are the essential programming languages you should have installed and configured in your system. Follow the links to install and configure them properly in VS Code.\n\nC/C++\n\nWindows: mingw\nUbuntu: gcc\n\nPython: Setup uv instead of direct Python and pip installation.\nLaTeX: Setup LaTeX to write assignments/thesis/papers.\n\nOther languages may be installed as per your requirement.\n\n\nOther Required Packages (Linux)\nUse your package manager to install the following essential packages:\nssh, curl, wget, make, nano, gdb\nsudo apt update\nsudo apt install curl wget make nano gdb openssh-client openssh-server openssl\n\n\nTerminal (Linux)\nI use Zsh with Oh My Zsh framework. Theme: robbyrussell Plugins: git, zsh-syntax-highlighting, zsh-autosuggestions Installation guide: https://ohmyz.sh\nYou can use any terminal like bash, fish, etc.\n\n\nTerminal Tools (Linux)\ntmux - To handle multiple terminal sessions bat - A better cat command with syntax highlighting fd - A better find command"
+  },
+  {
+    "objectID": "assignments.html",
+    "href": "assignments.html",
+    "title": "Assignments",
+    "section": "",
+    "text": "Required Readings\n\n Computational Resource Offerings by IIT Kharagpur\n\n\n PC Setup Instructions"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Computational Resource Offerings by IIT Kharagpur",
+    "section": "",
+    "text": "Diving straight to the point:\n\nDepartmental Level\nEach department has some resources, I will stick to CSE here.\n The official CSE resource compilation link\nYou can use the Software Lab machines for personal academic work (during non-lab hours till around 2 AM).\nTo get access to CPU and GPU clusters, fill out this form: https://cse.iitkgp.ac.in/archives/Server_Access_Form.pdf and submit it to the Software Lab Office, CSE Department.\n\n\nInstitute Level\n\nComputer and Informatics Centre (CIC)\nWebsite: https://cic.iitkgp.ac.in/\nWant to fix your broken LAN socket? Contact CIC. Want your institute fest/event/society/conference/laboratory to have a website? Contact CIC. Want FREE Windows and MS Office licenses? Check the CIC website (PC should be on campus network).\n\n\nParamShakti Supercomputer\nIIT Kharagpur very proudly hosts the 1.3 Peta Flop ParamShakti supercomputer, one of the fastest in India. The information can be found at its dedicated page: https://hpc.iitkgp.ac.in/.\nYour project supervisor will inform you if you need access to this. (One of the coolest thing on campus according to me. Find and visit it sometime!)"
+  },
+  {
+    "objectID": "slides.html",
+    "href": "slides.html",
+    "title": "Slides",
+    "section": "",
+    "text": "Week 1\n\n\n\n\n\n\n\nWeek 2"
+  },
+  {
+    "objectID": "ta_notes.html",
+    "href": "ta_notes.html",
+    "title": "TA Notes",
+    "section": "",
+    "text": "Sections\n\nWeek 1\nWeek 2"
+  }
+]
